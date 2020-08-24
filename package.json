@@ -1,7 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"description": "Managing packages with NPM sample app on heroku",
-	"keywords": ["heroku", "freeCodeCamp", "Node.js"],
+	"keywords": ["heroku", "freecodecamp", "Node.js"],
 	"author": "Matt Godfrey",
 	"dependencies": {
 		"express": "^4.17.1"
