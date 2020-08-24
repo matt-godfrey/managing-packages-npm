@@ -1,13 +1,17 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"description": "Managing packages with NPM sample app on heroku",
-	"keywords": ["heroku", "freecodecamp", "Node.js"],
+	"keywords": [
+		"heroku",
+		"freecodecamp",
+		"Node.js"
+	],
 	"license": "MIT",
 	"version": "1.2.0",
 	"author": "Matt Godfrey",
 	"dependencies": {
-		"moment": "2.14.0",
-		"express": "^4.17.1"
+		"express": "^4.17.1",
+		"moment": "^2.14.0"
 	},
 	"main": "server.js",
 	"scripts": {
