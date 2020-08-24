@@ -3,6 +3,7 @@
 	"description": "Managing packages with NPM sample app on heroku",
 	"keywords": ["heroku", "freecodecamp", "Node.js"],
 	"license": "MIT",
+	"version": "1.2.0",
 	"author": "Matt Godfrey",
 	"dependencies": {
 		"express": "^4.17.1"
